@@ -3,7 +3,7 @@ DATA ANALYSIS
 Add files via upload
 SALES DATA OF VARIOUS RESTURANTS ARE GIVEN BELOW:
 
-  Name Of Restaurants    Restaurant Id      2021        2022        2023        2024   
+  Name Of Restaurants          Restaurant Id          2021        2022        2023        2024   
 
     Paradise Biryani                 1               150000      180000      220000      250000   
     Beijing Bites                    2               120000      140000      160000      190000   
